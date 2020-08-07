@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kantologist on kantologist</title>
+    <link>/</link>
+    <description>Recent content in kantologist on kantologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Agent Probing Interaction Policies</title>
+      <link>/publication/api/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/api/</guid>
+      <description>&lt;p&gt;Reinforcement learning in a multi agent system is difficult because these
+systems are inherently non-stationary in nature. In such a case, identifying
+the type of the opposite agent is crucial and can help us address this
+non-stationary environment. We have investigated if we can employ some probing
+policies which help us better identify the type of the other agent in the
+environment. We&amp;rsquo;ve made a simplifying assumption that the other agent has a
+stationary policy that our probing policy is trying to approximate. Our work
+extends Environmental Probing Interaction Policy framework to handle multi
+agent environments.
+&lt;a href=&#34;https://arxiv.org/abs/1911.09535&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt; &lt;a href=&#34;http://aaai-rlg.mlanctot.info/&#34; target=&#34;_blank&#34;&gt;Submitted to AAAI-20 Workshop on Reinforcement Learning in Games&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fullstack Deeplearning Bootcamp</title>
+      <link>/talk/fullstack/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/fullstack/</guid>
+      <description>&lt;p&gt;I attended and participated in Fullstack Deeplearning Bootcamp organized at UC Berkeley.
+&lt;a href=&#34;https://fullstackdeeplearning.com/november2019/&#34; target=&#34;_blank&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Classification Network for Monocular Depth Estimation</title>
+      <link>/publication/deep-class/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/deep-class/</guid>
+      <description>&lt;p&gt;Monocular Depth Estimation is usually treated as a supervised and regression problem when it actually is very similar to semantic segmentation task since they both are fundamentally pixel-level classification tasks. We applied depth increments that increases with depth in discretizing depth values and then applied Deeplab v2 and the result was higher accuracy. We were able to achieve a state-of-the-art result on the KITTI dataset and outperformed existing architecture by an 8% margin.
+&lt;a href=&#34;https://arxiv.org/abs/1910.10369&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt; &lt;a href=&#34;https://blackinai.github.io/&#34; target=&#34;_blank&#34;&gt;Accepted in BAI Workshop 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Adaptation by Optical Flow Augmentation  in Semantic Segmentation (A proposal)</title>
+      <link>/publication/flow/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/flow/</guid>
+      <description>&lt;p&gt;It is expensive to generate real-life image labels and there is a domain gap
+between real-life and simulated images, hence a model trained on the latter
+cannot adapt to the former. Solving this can totally eliminate the need for
+labeling real-life datasets completely. Class balanced self-training is one of
+the existing techniques that attempt to reduce the domain gap. Moreover,
+augmenting RGB with flow maps has improved performance in simple semantic
+segmentation and geometry is preserved across domains. Hence, by augmenting
+images with dense optical flow map, domain adaptation in semantic segmentation
+can be improved.&lt;a href=&#34;https://arxiv.org/abs/1911.09652&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;a href=&#34;https://blackinai.github.io/&#34; target=&#34;_blank&#34;&gt;Accepted in BAI Workshop 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Summer School London</title>
+      <link>/talk/summer/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/summer/</guid>
+      <description>&lt;p&gt;I attended and presented a poster at the Machine Learning Summer school in London
+&lt;a href=&#34;https://www.instadeep.com/2019/07/mlss-sponsorship-to-support-future-ml-champions/&#34; target=&#34;_blank&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quad Cooker—Triune Cooker Plus Solar Cooker With Tracker</title>
+      <link>/project/quad/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/quad/</guid>
+      <description>&lt;p&gt;Household energy consumption, especially cooking energy, accounts for a larger part of the overall energy consumption in developing countries such as Nigeria and other African countries. This design became necessary due to the irregular supply of electricity and high cost of gas and kerosene, all of which constitute the main source of energy for electric cookers, gas cookers, and kerosene stoves.&lt;a href=&#34;http://sine.ni.com/cs/app/doc/p/id/cs-16795?nisrc=RSS-solar-en#&#34; target=&#34;_blank&#34;&gt;Published by National Instruments&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quad Cooker—Triune Cooker Plus Solar Cooker With Tracker</title>
+      <link>/publication/quad/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/quad/</guid>
+      <description>&lt;p&gt;Household energy consumption, especially cooking energy, accounts for a larger part of the overall energy consumption in developing countries such as Nigeria and other African countries. This design became necessary due to the irregular supply of electricity and high cost of gas and kerosene, all of which constitute the main source of energy for electric cookers, gas cookers, and kerosene stoves.&lt;a href=&#34;http://sine.ni.com/cs/app/doc/p/id/cs-16795?nisrc=RSS-solar-en#&#34; target=&#34;_blank&#34;&gt;Published by National Instruments&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Climate Change on the Efficiency of Solar Cell</title>
+      <link>/publication/solar/</link>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/solar/</guid>
+      <description>&lt;p&gt;The objective of this paper is to review the impact of climate change on solar cells efficiency. What is
+most commonly studied is the impact of efficiency of solar cells on climate change. Lack of adequate
+knowledge of this vice versa effect of the impact of climate change on solar cells would hinder us from
+quantifying the impact of the problem (climate change) on the solution (solar electricity). This is the
+problem this paper aims to solve. The aim is to review different studies that relate climate change and
+solar cells and to call researchers’ attention to the urgency of responding to climate change. Different
+articles which related ambient temperature, wind speed, module temperature and irradiance with the
+efficiency of solar cells were reviewed. From these relationships, the rate of change of the efficiency of
+solar cells was quantified using a 50 year scenario forecast from the IPCC’s (Intergovernmental panel
+on climate change) report for 2013.The result showed that there is a going to be a slight decline in
+efficiency due to climate change. Photo voltaic cells are one of our few and most important weapons of
+fighting climate change, but it seems we need to be urgent about using it or looking for alternatives
+since the P.V cells themselves have been shown by different studies to be affected by the enemy it
+fights, climate change. Climatic factors such as ambient temperature and irradiance, which changes as
+the climate changes, definitely affect how efficient our solar cells work at a considerable rate.&lt;a href=&#34;https://www.academia.edu/23773868/IMPACT_OF_CLIMATE_CHANGE_ON_THE_EFFICIENCY_OF_SOLAR_CELL&#34; target=&#34;_blank&#34;&gt;Published at the Proceedings of the International Conference of Mechanical Engineering, Energy Technology and Management (IMEETMCon 2014)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Classification Network for Monocular Depth Estimation</title>
+      <link>/project/deep-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/deep-class/</guid>
+      <description>&lt;p&gt;Monocular Depth Estimation is usually treated as a supervised and regression problem when it actually is very similar to semantic segmentation task since they both are fundamentally pixel-level classification tasks. We applied depth increments that increases with depth in discretizing depth values and then applied Deeplab v2 and the result was higher accuracy. We were able to achieve a state-of-the-art result on the KITTI dataset and outperformed existing architecture by an 8% margin.
+&lt;a href=&#34;https://www.instadeep.com/wp-content/uploads/2019/09/Correct-Indaba-Poster-azeez-2.pdf&#34; target=&#34;_blank&#34;&gt;Poster&lt;/a&gt; / &lt;a href=&#34;http://www.deeplearningindaba.com/&#34; target=&#34;_blank&#34;&gt;Presented at Deep Learning Indaba&lt;/a&gt; / &lt;a href=&#34;https://sites.google.com/view/mlss-2019&#34; target=&#34;_blank&#34;&gt;Presented at MLSS London&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SEREN: A Differential Privacy Application for Networking</title>
+      <link>/project/seren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/seren/</guid>
+      <description>&lt;p&gt;Conference attendees are frequently overwhelmed by the scale of the
+event they participate in. Young participants, most especially find it difficult
+to identify the right co-attendees to reach out and connect with. We believe
+that by creating a simple and intuitive app that removes the anxiety and
+uncertainty from arrangement of such meetings we will dramatically
+increase the quantity and quality of connections. Following each
+match-making we collect user feedback and retrain our model to improve
+the quality of recommendations before the next round. The goal is for users
+to report that through the usage of this app they were able to make more
+meaningful connections during the conference than they would otherwise
+be able to. We used a differential privacy approach in order to protect
+users’ data in training the model as opposed to a regular machine learning
+approach.
+&lt;a href=&#34;https://www.instadeep.com/wp-content/uploads/2019/08/seren_poster_pdf.pdf&#34; target=&#34;_blank&#34;&gt;Poster&lt;/a&gt; / &lt;a href=&#34;http://www.deeplearningindaba.com/&#34; target=&#34;_blank&#34;&gt;Presented and won MIT press Award at Deep Learning Indaba&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
